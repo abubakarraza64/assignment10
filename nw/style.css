@@ -1,0 +1,27 @@
+#jk{
+   text-align: center;
+   color: rgb(255, 0, 255);
+}
+#sk{
+    text-align: center;
+    color: rgb(255, 0, 191);
+ }
+ #df{
+    text-align: center;
+    color: rgb(212, 0, 91);
+font-weight: bolder;
+font-style: italic;
+
+ }
+ #fle{
+width: 180px;
+ }
+ #fc{
+    text-align: center;
+    color: rgb(255, 0, 0);
+ }
+ .fk{
+    text-align: center;
+font-style: oblique;
+    color: blueviolet;
+ }
